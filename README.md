@@ -10,11 +10,9 @@ This project is a specialized learning platform designed to bridge the gap betwe
 * **Optimized Algorithm:** An implementation based on the SM-2 algorithm, modified to handle contextual relationships between cards.
 
 ## 🛠️ Tech Stack
-* **Frontend:** React.js, TypeScript, Tailwind CSS
-* **Backend:** Python (Flask/FastAPI)
-* **Database:** SQLite (local development)
-* **AI Integration:** Semantic similarity analysis for card linking suggestions.
-
+* **Frontend:** React.js, TypeScript
+* **Backend:** Python 
+* **Database:** PostgreSQL
 
 ## 💻 Local Setup Instructions
 
